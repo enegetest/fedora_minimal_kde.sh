@@ -2,7 +2,8 @@
 
 ## Description
 
-This repository contains a simple shell script for Fedora Linux users. The script streamlines the process of installing a minimal KDE desktop environment, allowing users to set up a lightweight KDE environment with ease.
+## Origin and Acknowledgment
+This project is based on the work of [@yucellmustafa](https://github.com/yucellmustafa). The original script can be found at [yucellmustafa/fedora_minimal_kde.sh](https://gist.github.com/yucellmustafa/eec7cda40abde49fdac68b129e9ec250).
 
 ## Features
 
